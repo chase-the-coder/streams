@@ -25,3 +25,4 @@ function App() {
 }
 
 export default App;
+// Browser router dictaces the path for pages. The header will be present on all pages.
