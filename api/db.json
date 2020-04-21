@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 3
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream!",
+      "id": 4
+    },
+    {
+      "title": "This one guy",
+      "description": "I'm doing something",
+      "id": 5
+    },
+    {
+      "title": "Hello",
+      "description": "This is a test",
+      "id": 6
+    },
+    {
+      "title": "new testt",
+      "description": "testing...",
+      "userId": "111999556477808725953",
+      "id": 7
+    }
+  ]
+}
